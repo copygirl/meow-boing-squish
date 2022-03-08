@@ -6,7 +6,7 @@ hash = "4365cc82c61d1bbcd3d16ceeea4dd7a1e6c45825f22a439b231b1d407b2fd0e4"
 
 [[files]]
 file = "config/fml.toml"
-hash = "2d17d5c8d36af6bf752373770e035dd9aaec9c4d8d3e55f9cf27df40e758e69a"
+hash = "fcfd3bfb9eb16c7b29ef4b68893582f459dac12f3a87ea4f03a99d09c2c8706d"
 
 [[files]]
 file = "mods/appleskin.toml"
@@ -96,6 +96,16 @@ metafile = true
 [[files]]
 file = "mods/not-enough-crashes-forge.toml"
 hash = "ac668e50e3bce564db85d87c6903c489019ae4da9ec238fb17d8d1eb9c8f7d6e"
+metafile = true
+
+[[files]]
+file = "mods/placebo.toml"
+hash = "fa68534c346369f0650e6bfca58aefbba3cc82043a0c566442e6c177fb85bf59"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.toml"
+hash = "0f903936961aece7f2a273dd87a969c0368842c03d896270dd685d4cb10748c6"
 metafile = true
 
 [[files]]
