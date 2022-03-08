@@ -5,30 +5,6 @@ file = "config/bettermodsbutton-client.toml"
 hash = "4365cc82c61d1bbcd3d16ceeea4dd7a1e6c45825f22a439b231b1d407b2fd0e4"
 
 [[files]]
-file = "config/waila/blacklist.json"
-hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
-
-[[files]]
-file = "config/waila/waila.json"
-hash = "4bd30a7283febee4862fa70e2c950534027784febd82365baad33ca23bdfc691"
-
-[[files]]
-file = "config/waila/waila_plugins.json"
-hash = "b1020e8548bb2dacd81d980456c909e3c35c35dc9c0eba9f922ca06f6f07d018"
-
-[[files]]
-file = "config/xaerominimap.txt"
-hash = "17ae04c90c97e152da1dbd2e131ed5b64b4fe5207b13dcfbaf6134c744c76f0f"
-
-[[files]]
-file = "config/xaerominimap_entities.json"
-hash = "84ea0ac93560e4648accf76ea404109cffbc4b3a63d915442f7125ba74b2a7ad"
-
-[[files]]
-file = "config/xaeroworldmap.txt"
-hash = "ccd564a733bad6b821989496f60fbb4bcf8f868b9e60f1a1723e329f0a2c58b3"
-
-[[files]]
 file = "mods/appleskin.toml"
 hash = "9aaf2669bfa530211741ce3a49b3a597af9b149b148f1554f82ab0f0f55839b3"
 metafile = true
