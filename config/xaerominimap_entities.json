@@ -9,16 +9,16 @@
   "name": "gui.xaero_entity_category_root",
   "protection": true,
   "settingOverrides": {
-    "displayed": true,
+    "displayed": false,
     "heightBasedFade": true,
     "renderOrder": 0.0,
     "color": 13.0,
     "displayNameWhenIconFails": true,
     "entityNumber": 1000.0,
-    "alwaysDisplayNametags": false,
-    "startFadingAt": 0.0,
+    "alwaysDisplayNametags": true,
     "dotSize": 2.0,
-    "icons": 1.0,
+    "startFadingAt": 0.0,
+    "icons": 2.0,
     "names": 0.0,
     "heightLimit": 20.0,
     "iconScale": 1.0
@@ -46,8 +46,10 @@
           "name": "gui.xaero_entity_category_players",
           "protection": true,
           "settingOverrides": {
+            "displayed": true,
             "renderOrder": 6.0,
-            "color": 15.0
+            "color": 15.0,
+            "names": 2.0
           },
           "subCategories": [
             {
@@ -116,6 +118,7 @@
               "name": "gui.xaero_entity_category_friendly_tamed",
               "protection": true,
               "settingOverrides": {
+                "displayed": true,
                 "renderOrder": 4.0
               },
               "subCategories": []

@@ -6,7 +6,7 @@ differentiateByServerAddress:true
 debugEntityIcons:false
 debugEntityVariantIds:false
 #INGAME SETTINGS (DO NOT EDIT!)
-updateNotification:true
+updateNotification:false
 minimap:true
 caveMaps:2
 caveZoom:1
@@ -17,7 +17,7 @@ deathpoints:true
 oldDeathpoints:true
 distance:1
 showCoords:true
-lockNorth:false
+lockNorth:true
 zoom:0
 minimapSize:0
 chunkGrid:-1
@@ -34,20 +34,20 @@ lighting:true
 dotsStyle:0
 dotNameScale:1.0
 compassOverWaypoints:false
-showBiome:false
+showBiome:true
 showFlowers:true
 keepWaypointNames:true
 waypointsDistanceExp:0
 waypointsDistanceMin:0.0
 defaultWaypointTPCommandFormat:/tp @s {x} {y} {z}
 defaultWaypointTPCommandRotationFormat:/tp @s {x} {y} {z} {yaw} ~
-arrowScale:1.5
+arrowScale:1.2000000476837158
 arrowColour:0
 smoothDots:true
 worldMap:true
 terrainDepth:true
 terrainSlopes:2
-mainEntityAs:0
+mainEntityAs:2
 blockTransparency:true
 waypointOpacityIngame:80
 waypointOpacityMap:90
@@ -56,16 +56,16 @@ openSlimeSettings:true
 alwaysShowDistance:false
 showLightLevel:0
 crossDimensionalTp:true
-showTime:0
+showTime:3
 biomeColorsVanillaMode:false
 lookingAtAngle:10
 lookingAtAngleVertical:180
-centeredEnlarged:false
+centeredEnlarged:true
 zoomedOutEnlarged:false
-minimapTextAlign:0
+minimapTextAlign:1
 showAngles:false
 waypointsMutualEdit:true
-compassLocation:1
+compassLocation:2
 compassScale:1
 caveMapsDepth:30
 hideWaypointCoordinates:false
@@ -77,9 +77,9 @@ lightOverlayType:0
 lightOverlayMaxLight:7
 lightOverlayMinLight:0
 lightOverlayColor:13
-uiScale:0
-bossHealthPushBox:1
-potionEffectPushBox:1
+uiScale:3
+bossHealthPushBox:0
+potionEffectPushBox:0
 minimapFrame:0
 minimapFrameColor:9
 compassColor:9
@@ -94,9 +94,9 @@ mainDotSize:2
 partialYTeleportation:true
 deleteReachedDeathpoints:true
 hideMinimapUnderScreen:true
-interface:dummy:0:36:true:false:false:false
-interface:dummy:0:10000:true:false:false:false
 interface:dummy:0:0:false:false:true:false
-interface:dummy:0:36:true:false:false:false
-interface:gui.xaero_minimap:0:0:false:false:false:false
+interface:dummy:0:135:false:false:false:false
+interface:dummy:120:0:true:false:false:false
+interface:dummy:0:50:true:false:false:false
+interface:gui.xaero_minimap:0:10000:false:false:false:false
 #WAYPOINTS HAVE BEEN MOVED TO /XaeroWaypoints

@@ -18,15 +18,15 @@ hash = "b1020e8548bb2dacd81d980456c909e3c35c35dc9c0eba9f922ca06f6f07d018"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "2c30f24645a638c094a5e1a9aef104b1cbed96442dede6279fdf483d0de28be2"
+hash = "17ae04c90c97e152da1dbd2e131ed5b64b4fe5207b13dcfbaf6134c744c76f0f"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "d5a504c6dcd4ceaeb19639da83d68dc1c47e4234498a80a635d7b495d6c1c647"
+hash = "84ea0ac93560e4648accf76ea404109cffbc4b3a63d915442f7125ba74b2a7ad"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "ac294925a1f8a8b84e7fddd6107fcd0a8e4d61c120f9cf854171c2e3a061bd75"
+hash = "ccd564a733bad6b821989496f60fbb4bcf8f868b9e60f1a1723e329f0a2c58b3"
 
 [[files]]
 file = "mods/appleskin.toml"
