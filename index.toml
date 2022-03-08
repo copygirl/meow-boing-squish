@@ -5,6 +5,10 @@ file = "config/bettermodsbutton-client.toml"
 hash = "4365cc82c61d1bbcd3d16ceeea4dd7a1e6c45825f22a439b231b1d407b2fd0e4"
 
 [[files]]
+file = "config/fml.toml"
+hash = "2d17d5c8d36af6bf752373770e035dd9aaec9c4d8d3e55f9cf27df40e758e69a"
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "9aaf2669bfa530211741ce3a49b3a597af9b149b148f1554f82ab0f0f55839b3"
 metafile = true
