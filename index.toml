@@ -82,6 +82,11 @@ hash = "3a4d5ea0dd046463f4d5c3888b9d8b9533d31a0f78e4675057cfdc1284ed0d5a"
 metafile = true
 
 [[files]]
+file = "mods/invmovecompats.toml"
+hash = "59f206c2408402847f9b72494758e7a5ce631633215e9cb8525cc43b5a5a8454"
+metafile = true
+
+[[files]]
 file = "mods/jei.toml"
 hash = "0ec47d0e3bf4be13eb602a82726796e4b7015aba4597b34eef0e5df1c9542465"
 metafile = true
