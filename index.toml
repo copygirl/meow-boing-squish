@@ -5,6 +5,18 @@ file = "config/bettermodsbutton-client.toml"
 hash = "4365cc82c61d1bbcd3d16ceeea4dd7a1e6c45825f22a439b231b1d407b2fd0e4"
 
 [[files]]
+file = "config/waila/blacklist.json"
+hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
+
+[[files]]
+file = "config/waila/waila.json"
+hash = "4597fde5d576f236df3cdb1e9049601e766780ca9b245263a0fc0aa886286624"
+
+[[files]]
+file = "config/waila/waila_plugins.json"
+hash = "b1020e8548bb2dacd81d980456c909e3c35c35dc9c0eba9f922ca06f6f07d018"
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "9aaf2669bfa530211741ce3a49b3a597af9b149b148f1554f82ab0f0f55839b3"
 metafile = true
