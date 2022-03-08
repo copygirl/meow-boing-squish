@@ -17,6 +17,18 @@ file = "config/waila/waila_plugins.json"
 hash = "b1020e8548bb2dacd81d980456c909e3c35c35dc9c0eba9f922ca06f6f07d018"
 
 [[files]]
+file = "config/xaerominimap.txt"
+hash = "2c30f24645a638c094a5e1a9aef104b1cbed96442dede6279fdf483d0de28be2"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "d5a504c6dcd4ceaeb19639da83d68dc1c47e4234498a80a635d7b495d6c1c647"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "ac294925a1f8a8b84e7fddd6107fcd0a8e4d61c120f9cf854171c2e3a061bd75"
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "9aaf2669bfa530211741ce3a49b3a597af9b149b148f1554f82ab0f0f55839b3"
 metafile = true
