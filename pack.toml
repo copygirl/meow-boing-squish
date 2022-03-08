@@ -1,0 +1,16 @@
+name = "Meow Boing Squish"
+author = "copygirl, lizzie, Lyra"
+version = "0.1.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "87fc55e86d2f0aa8533583806675b5dd28772e2b6081d2d55879512774e09777"
+
+[versions]
+forge = "39.1.2"
+minecraft = "1.18.1"
+
+[options]
+acceptable-game-versions = ["1.18"]

@@ -1,0 +1,101 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "9aaf2669bfa530211741ce3a49b3a597af9b149b148f1554f82ab0f0f55839b3"
+metafile = true
+
+[[files]]
+file = "mods/balm.toml"
+hash = "c3fbc3445bcf237108a151e3807821789b9d0547fe64bc338903affa0ff3cf05"
+metafile = true
+
+[[files]]
+file = "mods/better-mods-button.toml"
+hash = "92f786814d3ccb5d6d70a6713e4f9a158fcdf046f01d058f0f4224f86b59eb0f"
+metafile = true
+
+[[files]]
+file = "mods/catalogue.toml"
+hash = "6bdc9ba109423404db8fef604e83aeed0d433fe730a6dc4e79a4c386ac6c94a6"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.toml"
+hash = "111c28a51f203d243d3fdab97c8a19fdb8f17251f248a8567ca63dc4cad86ad3"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config-forge.toml"
+hash = "89ce240e47591e1bb1dd4537c995d0fb73b2bcbc082fe163e5ed31d422deda4f"
+metafile = true
+
+[[files]]
+file = "mods/configured.toml"
+hash = "88f87e7edca2939290d441afa0554c45f2b283920560f8172c14c87d99f4d4ef"
+metafile = true
+
+[[files]]
+file = "mods/controllable.toml"
+hash = "0f0310851cca28c272989435cc18d5ad45422da5bf1750aac5f5e6e7ce1d907b"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.toml"
+hash = "26864582b9e351b66a8393dcb54f866698a9bf9eda8a5e600557d7de3cb6f47f"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.toml"
+hash = "7e3504ff83855b4a572fa10db2c4416428b7b306e928e8a59bf621ef31a5ea7e"
+metafile = true
+
+[[files]]
+file = "mods/inventory-essentials.toml"
+hash = "b067c4eab18de6806bf0df27dd21edfe1ccd2df08c47cbee3868e649dfcf011b"
+metafile = true
+
+[[files]]
+file = "mods/inventory-hotswap.toml"
+hash = "bfae43db62dc2a573c984384cd46272a1e87381a5ca26b325f7d75878035c7cf"
+metafile = true
+
+[[files]]
+file = "mods/invmove.toml"
+hash = "3a4d5ea0dd046463f4d5c3888b9d8b9533d31a0f78e4675057cfdc1284ed0d5a"
+metafile = true
+
+[[files]]
+file = "mods/jei.toml"
+hash = "0ec47d0e3bf4be13eb602a82726796e4b7015aba4597b34eef0e5df1c9542465"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.toml"
+hash = "57f78ac330d43cb53513970adcdfd4fcb66da25183ca27efe9f85b0a9c46b7f3"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.toml"
+hash = "3d12a1cd05fc4342437b2ef55d0f5a442105aaaa98377546bd43b8488b0dea2a"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-crashes-forge.toml"
+hash = "ac668e50e3bce564db85d87c6903c489019ae4da9ec238fb17d8d1eb9c8f7d6e"
+metafile = true
+
+[[files]]
+file = "mods/wthit-forge.toml"
+hash = "496d402af21afd318fee7d092ffbffbad9253aa63ad97ce5657f06e2b2feaa96"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.toml"
+hash = "084b252a7d42dafa785ac052d6117c31f2f4a14d3cabe01612c3c1909c222b9c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.toml"
+hash = "0a66888a8e95b69c286314f90b186d27b977ed8fead69f2e018e532145e5f701"
+metafile = true

@@ -1,0 +1,13 @@
+name = "Not Enough Crashes (Forge)"
+filename = "notenoughcrashes-4.1.4+1.18.1-forge.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3606/829/notenoughcrashes-4.1.4+1.18.1-forge.jar"
+hash-format = "sha1"
+hash = "790dd232a2e5290f703770424656ff48ed297abf"
+
+[update]
+[update.curseforge]
+file-id = 3606829
+project-id = 442354

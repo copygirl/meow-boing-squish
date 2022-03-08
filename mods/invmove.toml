@@ -1,0 +1,18 @@
+name = "InvMove"
+filename = "InvMove-1.18-0.6.1-Forge.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3667/27/InvMove-1.18-0.6.1-Forge.jar"
+hash-format = "sha1"
+hash = "a8543361746fbd7d425e3e9cb468018c4c5d8809"
+
+[update]
+[update.curseforge]
+file-id = 3667027
+project-id = 581854
+
+[option]
+description = "Move around while GUIs are open"
+optional = true
+default = true

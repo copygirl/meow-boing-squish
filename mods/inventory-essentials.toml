@@ -1,0 +1,18 @@
+name = "Inventory Essentials"
+filename = "inventoryessentials-forge-1.18-4.0.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3584/942/inventoryessentials-forge-1.18-4.0.1.jar"
+hash-format = "sha1"
+hash = "98605da804118e855b0ff532e2c15e61b6e6dfd4"
+
+[update]
+[update.curseforge]
+file-id = 3584942
+project-id = 368825
+
+[option]
+description = "Additional utility controls to move items arounds"
+optional = true
+default = false

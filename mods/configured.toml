@@ -1,0 +1,13 @@
+name = "Configured"
+filename = "configured-1.5.3-1.18.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3640/884/configured-1.5.3-1.18.1.jar"
+hash-format = "sha1"
+hash = "83ec8778671caab56aeb8892f418d6e5a800abe6"
+
+[update]
+[update.curseforge]
+file-id = 3640884
+project-id = 457570
