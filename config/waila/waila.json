@@ -1,7 +1,7 @@
 {
   "general": {
     "displayTooltip": true,
-    "shiftForDetails": false,
+    "shiftForDetails": true,
     "displayMode": "TOGGLE",
     "hideFromPlayerList": true,
     "hideFromDebug": true,
@@ -21,11 +21,11 @@
         "y": "TOP"
       },
       "x": 0,
-      "y": 0,
+      "y": 4,
       "bossBarsOverlap": false
     },
     "color": {
-      "alpha": 80,
+      "alpha": 50,
       "themes": [
         {
           "id": "waila:dark",
@@ -42,7 +42,7 @@
           "fontColor": 10526880
         }
       ],
-      "activeTheme": "waila:vanilla"
+      "activeTheme": "waila:dark"
     },
     "scale": 1.0
   },
