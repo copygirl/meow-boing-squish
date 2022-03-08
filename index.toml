@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bettermodsbutton-client.toml"
-hash = "a9d749e2060cd8fe6eb59d1d47c164b281a88362f1fc37c0f2e22c065cde97ae"
+hash = "4365cc82c61d1bbcd3d16ceeea4dd7a1e6c45825f22a439b231b1d407b2fd0e4"
 
 [[files]]
 file = "mods/appleskin.toml"
