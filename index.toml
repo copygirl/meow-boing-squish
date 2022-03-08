@@ -10,7 +10,7 @@ hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
 
 [[files]]
 file = "config/waila/waila.json"
-hash = "68c0c9753034b2e8948afcc068a6202f8c1f1d026bf045546a1fa5581ad9c3ff"
+hash = "4bd30a7283febee4862fa70e2c950534027784febd82365baad33ca23bdfc691"
 
 [[files]]
 file = "config/waila/waila_plugins.json"
