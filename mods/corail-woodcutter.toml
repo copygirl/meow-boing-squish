@@ -1,0 +1,13 @@
+name = "Corail Woodcutter"
+filename = "corail_woodcutter-1.18-2.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3587/836/corail_woodcutter-1.18-2.2.1.jar"
+hash-format = "sha1"
+hash = "8fc500324edade35767c64130428376cb1a13581"
+
+[update]
+[update.curseforge]
+file-id = 3587836
+project-id = 331983

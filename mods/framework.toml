@@ -1,0 +1,13 @@
+name = "Framework"
+filename = "framework-0.2.3-1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3626/770/framework-0.2.3-1.18.1.jar"
+hash-format = "sha1"
+hash = "77fc0a35337c31190e2ec838a352e0a7146b191c"
+
+[update]
+[update.curseforge]
+file-id = 3626770
+project-id = 549225

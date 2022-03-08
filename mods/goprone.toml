@@ -1,0 +1,13 @@
+name = "GoProne"
+filename = "goprone-1.18.1-1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3571/403/goprone-1.18.1-1.6.0.jar"
+hash-format = "sha1"
+hash = "b48d2e911e3506fc8dda129091a84261d1a20f25"
+
+[update]
+[update.curseforge]
+file-id = 3571403
+project-id = 327968

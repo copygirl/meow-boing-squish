@@ -1,0 +1,13 @@
+name = "Artifacts"
+filename = "artifacts-1.18.1-4.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3665/638/artifacts-1.18.1-4.0.3.jar"
+hash-format = "sha1"
+hash = "c7823d35738e74bc45221ca99d39905c211f9140"
+
+[update]
+[update.curseforge]
+file-id = 3665638
+project-id = 312353

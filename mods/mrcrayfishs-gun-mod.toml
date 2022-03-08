@@ -1,0 +1,13 @@
+name = "MrCrayfish's Gun Mod"
+filename = "gun-mod-1.1.3-1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3622/948/gun-mod-1.1.3-1.18.1.jar"
+hash-format = "sha1"
+hash = "ef7b760697b18dcad9388960bc06a5f22cfa3c28"
+
+[update]
+[update.curseforge]
+file-id = 3622948
+project-id = 289479

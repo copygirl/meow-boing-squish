@@ -1,0 +1,13 @@
+name = "YUNG's Better Dungeons (Forge)"
+filename = "BetterDungeons-Forge-1.18.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3659/567/BetterDungeons-Forge-1.18.1-1.0.1.jar"
+hash-format = "sha1"
+hash = "b740516287aa3ffb1b6836ff47617f161462eb3c"
+
+[update]
+[update.curseforge]
+file-id = 3659567
+project-id = 510089

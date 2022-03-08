@@ -1,0 +1,13 @@
+name = "Ars Nouveau"
+filename = "ars_nouveau-1.18.1-2.2.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3675/983/ars_nouveau-1.18.1-2.2.10.jar"
+hash-format = "sha1"
+hash = "1d00e93bad5246475870c1b8ff81a7add8848eff"
+
+[update]
+[update.curseforge]
+file-id = 3675983
+project-id = 401955
