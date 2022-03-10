@@ -5,6 +5,14 @@ file = "config/bettermodsbutton-client.toml"
 hash = "4365cc82c61d1bbcd3d16ceeea4dd7a1e6c45825f22a439b231b1d407b2fd0e4"
 
 [[files]]
+file = "config/create-client.toml"
+hash = "7739d3ea2de5553b57e94243552bd303db645b308a8c57042b7e8a61e9c444d5"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "164fd80297274619a41cb8404c51b98dff1ed468035ec67f26b6dd4ca3fb46bc"
+
+[[files]]
 file = "config/fml.toml"
 hash = "fcfd3bfb9eb16c7b29ef4b68893582f459dac12f3a87ea4f03a99d09c2c8706d"
 
