@@ -10,41 +10,41 @@
 		"Item bonus repairvalue" = 12
 		#This value determines how likely the anvil is to get damaged when used.
 		#Range: 0.0 ~ 1.0
-		"Anvil Breakchance" = 0.12
+		"Anvil Breakchance" = 0.1
 
 	[Config.Enchantments]
 
 		[Config.Enchantments.Level]
 			#This value determines the max level for the Power enchantment. Default Value is 3. Vanilla is 5.
 			#Range: 1 ~ 255
-			"Power Max Level" = 3
+			"Power Max Level" = 5
 			#This value determines the max level for the Punch enchantment. Default Value is 3. Vanilla is 2.
 			#Range: 1 ~ 255
-			"Punch Max Level" = 3
+			"Punch Max Level" = 2
 			#This value determines the max level for the Piercing enchantment. Default Value is 3. Vanilla is 4.
 			#Range: 1 ~ 255
-			"Piercing Max Level" = 3
+			"Piercing Max Level" = 4
 			#This VAlue determines the max level for the Sharpness, Smite and Bane of Arthropods enchantments. Default Value is 3.
 			#Range: 1 ~ 255
-			"Sharpness/Smite/Bane of Arthropods Max Level" = 3
+			"Sharpness/Smite/Bane of Arthropods Max Level" = 5
 			#This value determines the max level for the Unbreaking enchantment. Default Value is 3. Vanilla is 3.
 			#Range: 1 ~ 255
 			"Unbreaking Max Level" = 3
 			#This value determines the max level for the Efficiency enchantment. Default Value is 3. Vanilla is 5.
 			#Range: 1 ~ 255
-			"Efficiency Max Level" = 3
+			"Efficiency Max Level" = 5
 			#This value determines the max level for the Fire Aspect enchantment. Default Value is 3. Vanilla is 5.
 			#Range: 1 ~ 255
-			"Fire Aspect Max Level" = 3
+			"Fire Aspect Max Level" = 2
 			#This value determines the max level for the Lure enchantment. Default Value is 3. Vanilla is 3.
 			#Range: 1 ~ 255
 			"Lure Max Level" = 3
 			#This value determines the max level for the Frost Walker enchantment. Default Value is 3. Vanilla is 2.
 			#Range: 1 ~ 255
-			"Frost Walker Max Level" = 3
+			"Frost Walker Max Level" = 2
 			#This value determines the max level for the Knockback enchantment. Default Value is 3. Vanilla is 2.
 			#Range: 1 ~ 255
-			"Knockback Max Level" = 3
+			"Knockback Max Level" = 2
 			#This value determines the max level for the Fortune, Looting and Luck of the Seas enchantments. Default Value is 3. Vanilla is 3.
 			#Range: 1 ~ 255
 			"Fortune/Looting/Luck of the Seas Max Level" = 3
@@ -53,7 +53,7 @@
 			"Respiration Max Level" = 3
 			#This value determines the max level for all Protection Type enchantments. Default Value is 3. Vanilla is 4.
 			#Range: 1 ~ 255
-			"Protection Enchantments Max Level" = 3
+			"Protection Enchantments Max Level" = 4
 			#This value determines the max level for the Quick Charge enchantment. Default Value is 3. Vanilla is 3.
 			#Range: 1 ~ 255
 			"Quick Charge Max Level" = 3
@@ -68,7 +68,7 @@
 			"Thorns Max Level" = 3
 			#This value determines the max level for the Impaling enchantment. Default Value is 3. Vanilla is 5.
 			#Range: 1 ~ 255
-			"Impaling Max Level" = 3
+			"Impaling Max Level" = 5
 			#This value determines the max level for the Loyalty enchantment. Default Value is 3. Vanilla is 3.
 			#Range: 1 ~ 255
 			"Loyalty Max Level" = 3
@@ -100,7 +100,7 @@
 			"Projectile Protection Multiplier" = 2
 			#This value determines the strength of the Unbreaking Enchantment. For vanilla behaviour set the value to 1. Default value is 3.
 			#Range: 1 ~ 32767
-			"Unbreaking Strength Multiplier" = 3
+			"Unbreaking Strength Multiplier" = 1
 			#This value determines how likely armor pieces are to take damage regardless of the unbreaking enchantmets level. To deactivate this behaviour keep this value at 0.0. For vanilla behaviour set this value to 0.6. Mod default is 0.0.
 			#Range: 0.0 ~ 1.0
 			"Apply damage to armor chance" = 0.0
@@ -108,8 +108,8 @@
 	[Config.Structures]
 		#This value defines the maximum distance between two Library Ruins Structures measured in chunks. Default value is 35.
 		#Range: > 1
-		"Library Ruins Spacing" = 35
+		"Library Ruins Spacing" = 18
 		#This value defines the minimum distance between two Library Ruins Structures measured in chunks. Default value is 15. Note: This value MUST be smaller than the Library Ruins Spacing and greater than 0.
 		#Range: > 1
-		"Library Ruins Seperation" = 15
+		"Library Ruins Seperation" = 8
 

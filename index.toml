@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ars_nouveau-common.toml"
+hash = "a18d22a754627843b94c007b97085ecfbb20f3a751a9fd6a052fd66d6e07b807"
+
+[[files]]
 file = "config/bettermodsbutton-client.toml"
 hash = "4365cc82c61d1bbcd3d16ceeea4dd7a1e6c45825f22a439b231b1d407b2fd0e4"
 
@@ -14,11 +18,35 @@ hash = "164fd80297274619a41cb8404c51b98dff1ed468035ec67f26b6dd4ca3fb46bc"
 
 [[files]]
 file = "config/enchanting_overhauled.toml"
-hash = "7c0b7d91fa8db1abb48be5121f16125765b8eb713c961eaf4d0de9a78bc43f04"
+hash = "5f9f99a4c420157823be66084c536fc3f2b00297d98b13c639d6f69ef6fb2426"
 
 [[files]]
 file = "config/fml.toml"
 hash = "fcfd3bfb9eb16c7b29ef4b68893582f459dac12f3a87ea4f03a99d09c2c8706d"
+
+[[files]]
+file = "config/integratedcrafting-common.toml"
+hash = "b2994f6b86942eae6100e26f90f86ab5ef720dc9fcefb7a6c977d3eaa1df571a"
+
+[[files]]
+file = "config/integrateddynamics-common.toml"
+hash = "33842a2d9d50d84b0ab73cda9cafc6bda206d5bc61494c577e2504d6488e7eab"
+
+[[files]]
+file = "config/integrateddynamicscompat-common.toml"
+hash = "231c6d602e6493c36055f344b38a5f4cd5b435f9cbb69d77d36e0f314579a4e3"
+
+[[files]]
+file = "config/integratedterminals-common.toml"
+hash = "812edd4106f26b3c7d51b0a877d548893ec41f6c9526f3717f972e607215132b"
+
+[[files]]
+file = "config/integratedterminalscompat-common.toml"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "config/integratedtunnels-common.toml"
+hash = "d8d5d7702a7b7f91532f22bc3908ff0327a4e8e0cac42b8a3028d6f73f44d12e"
 
 [[files]]
 file = "config/quark-common.toml"
