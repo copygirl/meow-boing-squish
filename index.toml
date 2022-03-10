@@ -9,6 +9,10 @@ file = "config/fml.toml"
 hash = "fcfd3bfb9eb16c7b29ef4b68893582f459dac12f3a87ea4f03a99d09c2c8706d"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "e851665559fbe917ac929a164cc8fa12ce5eae1dd14377e4ba5d7d38590578d8"
+
+[[files]]
 file = "mods/appleskin.toml"
 hash = "9aaf2669bfa530211741ce3a49b3a597af9b149b148f1554f82ab0f0f55839b3"
 metafile = true
