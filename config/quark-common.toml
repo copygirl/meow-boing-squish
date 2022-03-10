@@ -1,6 +1,6 @@
 
 [general]
-	"Enable 'q' Button" = true
+	"Enable 'q' Button" = false
 	"'q' Button on the Right" = false
 	"Disable Q Menu Effects" = false
 	#Disable this to turn off the quark system that makes features turn off when specified mods with the same content are loaded
@@ -1352,7 +1352,7 @@
 	"Microcrafting Helper" = true
 	"Improved Tooltips" = true
 	"Greener Grass" = true
-	"Chest Searching" = true
+	"Chest Searching" = false
 	"Back Button Keybind" = true
 	"Auto Walk Keybind" = true
 
@@ -1443,15 +1443,15 @@
 
 [oddities]
 	"Totem Of Holding" = true
-	Pipes = true
-	"Matrix Enchanting" = true
-	Magnets = true
+	Pipes = false
+	"Matrix Enchanting" = false
+	Magnets = false
 	Crate = true
-	Backpack = true
+	Backpack = false
 
 	[oddities.totem_of_holding]
 		#Set this to false to remove the behaviour where totems destroy themselves if the player dies again.
-		"Dark Souls Mode" = true
+		"Dark Souls Mode" = false
 		#Totem will always spawn if the player killer is himself.
 		"Spawn Totem on PVP Kill" = false
 		#Set this to true to make it so that if a totem is destroyed, the items it holds are destroyed alongside it rather than dropped
