@@ -6,7 +6,7 @@ hash = "4365cc82c61d1bbcd3d16ceeea4dd7a1e6c45825f22a439b231b1d407b2fd0e4"
 
 [[files]]
 file = "config/create-client.toml"
-hash = "7739d3ea2de5553b57e94243552bd303db645b308a8c57042b7e8a61e9c444d5"
+hash = "e6999a5ad77a2a0433a61d9d094060369b09855e1b7307eda798ad515adc2638"
 
 [[files]]
 file = "config/create-common.toml"
