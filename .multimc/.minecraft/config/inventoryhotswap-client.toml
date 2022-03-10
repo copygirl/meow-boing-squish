@@ -2,7 +2,7 @@
 #If set to INVISIBLE, then the survival gui will not be rendered when keybind it pressed.
 #If set to OVERLAY, then the survival gui will not be moved and the vertical selection bar will render over it
 #Allowed Values: INVISIBLE, PUSHED, OVERLAY
-guiRenderType = "PUSHED"
+guiRenderType = "OVERLAY"
 #Set to true if you want the quick selection key presses to be inverted.
 invertQuickSelection = false
 
