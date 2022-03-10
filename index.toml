@@ -13,6 +13,10 @@ file = "config/create-common.toml"
 hash = "164fd80297274619a41cb8404c51b98dff1ed468035ec67f26b6dd4ca3fb46bc"
 
 [[files]]
+file = "config/enchanting_overhauled.toml"
+hash = "7c0b7d91fa8db1abb48be5121f16125765b8eb713c961eaf4d0de9a78bc43f04"
+
+[[files]]
 file = "config/fml.toml"
 hash = "fcfd3bfb9eb16c7b29ef4b68893582f459dac12f3a87ea4f03a99d09c2c8706d"
 

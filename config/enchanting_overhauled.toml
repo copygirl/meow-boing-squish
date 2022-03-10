@@ -1,0 +1,115 @@
+
+[Config]
+
+	[Config.Anvil]
+		#This value determines how many repairitems are needed to fully repair a max damaged item on the anvil. Default value is 5.
+		#Range: > 1
+		"Max item repaircost" = 5
+		#This value determines how much bonus durability you get when combining two damaged items on the anvil. Default value is 12. (Range as a percentage)
+		#Range: 0 ~ 100
+		"Item bonus repairvalue" = 12
+		#This value determines how likely the anvil is to get damaged when used.
+		#Range: 0.0 ~ 1.0
+		"Anvil Breakchance" = 0.12
+
+	[Config.Enchantments]
+
+		[Config.Enchantments.Level]
+			#This value determines the max level for the Power enchantment. Default Value is 3. Vanilla is 5.
+			#Range: 1 ~ 255
+			"Power Max Level" = 3
+			#This value determines the max level for the Punch enchantment. Default Value is 3. Vanilla is 2.
+			#Range: 1 ~ 255
+			"Punch Max Level" = 3
+			#This value determines the max level for the Piercing enchantment. Default Value is 3. Vanilla is 4.
+			#Range: 1 ~ 255
+			"Piercing Max Level" = 3
+			#This VAlue determines the max level for the Sharpness, Smite and Bane of Arthropods enchantments. Default Value is 3.
+			#Range: 1 ~ 255
+			"Sharpness/Smite/Bane of Arthropods Max Level" = 3
+			#This value determines the max level for the Unbreaking enchantment. Default Value is 3. Vanilla is 3.
+			#Range: 1 ~ 255
+			"Unbreaking Max Level" = 3
+			#This value determines the max level for the Efficiency enchantment. Default Value is 3. Vanilla is 5.
+			#Range: 1 ~ 255
+			"Efficiency Max Level" = 3
+			#This value determines the max level for the Fire Aspect enchantment. Default Value is 3. Vanilla is 5.
+			#Range: 1 ~ 255
+			"Fire Aspect Max Level" = 3
+			#This value determines the max level for the Lure enchantment. Default Value is 3. Vanilla is 3.
+			#Range: 1 ~ 255
+			"Lure Max Level" = 3
+			#This value determines the max level for the Frost Walker enchantment. Default Value is 3. Vanilla is 2.
+			#Range: 1 ~ 255
+			"Frost Walker Max Level" = 3
+			#This value determines the max level for the Knockback enchantment. Default Value is 3. Vanilla is 2.
+			#Range: 1 ~ 255
+			"Knockback Max Level" = 3
+			#This value determines the max level for the Fortune, Looting and Luck of the Seas enchantments. Default Value is 3. Vanilla is 3.
+			#Range: 1 ~ 255
+			"Fortune/Looting/Luck of the Seas Max Level" = 3
+			#This value determines the max level for the Respiration enchantment. Default Value is 3. Vanilla is 3.
+			#Range: 1 ~ 255
+			"Respiration Max Level" = 3
+			#This value determines the max level for all Protection Type enchantments. Default Value is 3. Vanilla is 4.
+			#Range: 1 ~ 255
+			"Protection Enchantments Max Level" = 3
+			#This value determines the max level for the Quick Charge enchantment. Default Value is 3. Vanilla is 3.
+			#Range: 1 ~ 255
+			"Quick Charge Max Level" = 3
+			#This value determines the max level for the Soul Speed enchantment. Default Value is 3. Vanilla is 3.
+			#Range: 1 ~ 255
+			"Soul Speed Max Level" = 3
+			#This value determines the max level for the Sweeping Edge enchantment. Default Value is 3. Vanilla is 3.
+			#Range: 1 ~ 255
+			"Sweeping Edge Max Level" = 3
+			#This value determines the max level for the Thorns enchantment. Default Value is 3. Vanilla is 3.
+			#Range: 1 ~ 255
+			"Thorns Max Level" = 3
+			#This value determines the max level for the Impaling enchantment. Default Value is 3. Vanilla is 5.
+			#Range: 1 ~ 255
+			"Impaling Max Level" = 3
+			#This value determines the max level for the Loyalty enchantment. Default Value is 3. Vanilla is 3.
+			#Range: 1 ~ 255
+			"Loyalty Max Level" = 3
+			#This value determines the max level for the Riptide enchantment. Default Value is 3. Vanilla is 3.
+			#Range: 1 ~ 255
+			"Riptide Max Level" = 3
+			#This value determines the max level for the Depth Strider enchantment. Default Value is 3. Vanilla is 5.
+			#Range: 1 ~ 255
+			"Depth Strider Max Level" = 3
+
+		[Config.Enchantments.Misc]
+			#This value determines by which amount the Feather Falling damage reduction is multiplied by. Default value is 3. (A multiplier of 1 equals 4% damage reduction per enchantment level)
+			#Range: 1 ~ 20
+			"Feather Falling Multiplier" = 3
+			#This value determines by which amount the Blast Protection damage reduction is multiplied by. Default value is 2. (A multiplier of 1 equals 4% damage reduction per enchantment level)
+			#Range: 1 ~ 20
+			"Blast Protection Multiplier" = 2
+			#This value determines by which amount the Magic Protection damage reduction is multiplied by. Default value is 1. (A multiplier of 1 equals 4% damage reduction per enchantment level)
+			#Range: 1 ~ 20
+			"Magic Protection Multiplier" = 1
+			#This value determines by which amount the Fire Protection damage reduction is multiplied by. Default value is 2. (A multiplier of 1 equals 4% damage reduction per enchantment level)
+			#Range: 1 ~ 20
+			"Fire Protection Multiplier" = 2
+			#This value determines by which amount the Physical Protection damage reduction is multiplied by. Default value is 1. (A multiplier of 1 equals 4% damage reduction per enchantment level)
+			#Range: 1 ~ 20
+			"Physical Protection Multiplier" = 1
+			#This value determines by which amount the Projectile Protection damage reduction is multiplied by. Default value is 2. (A multiplier of 1 equals 4% damage reduction per enchantment level)
+			#Range: 1 ~ 20
+			"Projectile Protection Multiplier" = 2
+			#This value determines the strength of the Unbreaking Enchantment. For vanilla behaviour set the value to 1. Default value is 3.
+			#Range: 1 ~ 32767
+			"Unbreaking Strength Multiplier" = 3
+			#This value determines how likely armor pieces are to take damage regardless of the unbreaking enchantmets level. To deactivate this behaviour keep this value at 0.0. For vanilla behaviour set this value to 0.6. Mod default is 0.0.
+			#Range: 0.0 ~ 1.0
+			"Apply damage to armor chance" = 0.0
+
+	[Config.Structures]
+		#This value defines the maximum distance between two Library Ruins Structures measured in chunks. Default value is 35.
+		#Range: > 1
+		"Library Ruins Spacing" = 35
+		#This value defines the minimum distance between two Library Ruins Structures measured in chunks. Default value is 15. Note: This value MUST be smaller than the Library Ruins Spacing and greater than 0.
+		#Range: > 1
+		"Library Ruins Seperation" = 15
+
