@@ -9,6 +9,10 @@ file = "config/bettermodsbutton-client.toml"
 hash = "4365cc82c61d1bbcd3d16ceeea4dd7a1e6c45825f22a439b231b1d407b2fd0e4"
 
 [[files]]
+file = "config/commoncapabilities-common.toml"
+hash = "5085a7b6590e09ec312cfe823ccfaf82b6b718201dac9bcdb9452f8610c80797"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "e6999a5ad77a2a0433a61d9d094060369b09855e1b7307eda798ad515adc2638"
 
