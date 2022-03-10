@@ -10,7 +10,7 @@ hash = "4365cc82c61d1bbcd3d16ceeea4dd7a1e6c45825f22a439b231b1d407b2fd0e4"
 
 [[files]]
 file = "config/commoncapabilities-common.toml"
-hash = "5085a7b6590e09ec312cfe823ccfaf82b6b718201dac9bcdb9452f8610c80797"
+hash = "4501f3526a23dc93df724f0f7a29232a09bdb775b2e21036326c2752bc6e36f7"
 
 [[files]]
 file = "config/create-client.toml"
@@ -22,7 +22,7 @@ hash = "164fd80297274619a41cb8404c51b98dff1ed468035ec67f26b6dd4ca3fb46bc"
 
 [[files]]
 file = "config/cyclopscore-common.toml"
-hash = "bdb9c84a0e817f91653f2c4c25d342cb0163f067820e3dff9685cf7497e4f619"
+hash = "1d5545ca950744059c724f406f83f93c007332c73fd9d6baddb074152c22b1dd"
 
 [[files]]
 file = "config/enchanting_overhauled.toml"
@@ -34,11 +34,11 @@ hash = "fcfd3bfb9eb16c7b29ef4b68893582f459dac12f3a87ea4f03a99d09c2c8706d"
 
 [[files]]
 file = "config/integratedcrafting-common.toml"
-hash = "b2994f6b86942eae6100e26f90f86ab5ef720dc9fcefb7a6c977d3eaa1df571a"
+hash = "279a4dc8e2fe2a618052279f927a2589143cc32aa950277c3143ad15dfbce4d4"
 
 [[files]]
 file = "config/integrateddynamics-common.toml"
-hash = "33842a2d9d50d84b0ab73cda9cafc6bda206d5bc61494c577e2504d6488e7eab"
+hash = "0fa625ab39a7c09f3c25635c58edb61cda663f0a31f79237a2e3d0a0297a2b5e"
 
 [[files]]
 file = "config/integrateddynamicscompat-common.toml"
@@ -46,7 +46,7 @@ hash = "231c6d602e6493c36055f344b38a5f4cd5b435f9cbb69d77d36e0f314579a4e3"
 
 [[files]]
 file = "config/integratedterminals-common.toml"
-hash = "812edd4106f26b3c7d51b0a877d548893ec41f6c9526f3717f972e607215132b"
+hash = "e01c4d419278098995bb45720dfe5164c2f622d95bd5aceab6550a6f3cbc96cf"
 
 [[files]]
 file = "config/integratedterminalscompat-common.toml"
@@ -54,7 +54,7 @@ hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 
 [[files]]
 file = "config/integratedtunnels-common.toml"
-hash = "d8d5d7702a7b7f91532f22bc3908ff0327a4e8e0cac42b8a3028d6f73f44d12e"
+hash = "49c935d843e6acf20fb63bc430cb70b69f3ea09f893c3a3fe78396aa18308b03"
 
 [[files]]
 file = "config/quark-common.toml"
