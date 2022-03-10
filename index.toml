@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/ars_nouveau-common.toml"
-hash = "a18d22a754627843b94c007b97085ecfbb20f3a751a9fd6a052fd66d6e07b807"
+hash = "4ed3a352b6b01e7e5dca059d76a034f10036d76ed2b186aa257c5d4aa6794498"
 
 [[files]]
 file = "config/bettermodsbutton-client.toml"
@@ -38,7 +38,7 @@ hash = "279a4dc8e2fe2a618052279f927a2589143cc32aa950277c3143ad15dfbce4d4"
 
 [[files]]
 file = "config/integrateddynamics-common.toml"
-hash = "0fa625ab39a7c09f3c25635c58edb61cda663f0a31f79237a2e3d0a0297a2b5e"
+hash = "e8b63132c85e0e55df7c86a2c9ef64c90f0e6eca7bf83ce4758f74993413f109"
 
 [[files]]
 file = "config/integrateddynamicscompat-common.toml"
