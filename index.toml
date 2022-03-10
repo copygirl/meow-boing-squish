@@ -10,7 +10,7 @@ hash = "fcfd3bfb9eb16c7b29ef4b68893582f459dac12f3a87ea4f03a99d09c2c8706d"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "a9632440b54115890cf232115e6754f28018209a7a1e71e106c65eabada50b08"
+hash = "1c351f3a9b039234f253aa4023b42ad480d4eeca5e74ce45ce1699c24546f34b"
 
 [[files]]
 file = "mods/appleskin.toml"

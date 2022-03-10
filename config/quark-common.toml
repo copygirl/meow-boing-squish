@@ -50,8 +50,8 @@
 	"Feeding Trough" = true
 	"Ender Watcher" = true
 	"Dispensers Place Blocks" = true
-	Chute = true
-	"Chains Connect Blocks" = true
+	Chute = false
+	"Chains Connect Blocks" = false
 
 	[automation.pistons_move_tile_entities]
 		"Enable Chests Moving Together" = true
@@ -86,11 +86,11 @@
 	"Variant Bookshelves" = true
 	Thatch = true
 	"Sturdy Stone" = true
-	Stools = true
+	Stools = false
 	"Soul Sandstone" = true
 	Shingles = true
 	"Shear Vines" = true
-	Rope = true
+	Rope = false
 	"Oriental Palette" = true
 	"Nether Brick Fence Gate" = true
 	"More Stone Variants" = true
@@ -183,9 +183,9 @@
 		"Enable Stick Block" = true
 		"Enable Apple Crate" = true
 		"Enable Golden Apple Crate" = true
-		"Enable Potato Crate" = true
-		"Enable Carrot Crate" = true
-		"Enable Beetroot Crate" = true
+		"Enable Potato Crate" = false
+		"Enable Carrot Crate" = false
+		"Enable Beetroot Crate" = false
 		"Enable Cocoa Bean Sack" = true
 		"Enable Nether Wart Sack" = true
 		"Enable Gunpowder Sack" = true
@@ -202,7 +202,7 @@
 	"Quick Armor Swapping" = true
 	"Item Sharing" = true
 	"Inventory Sorting" = true
-	"Hotbar Changer" = true
+	"Hotbar Changer" = false
 	"Expanded Item Interactions" = true
 	"Easy Transfering" = true
 	"Chests In Boats" = true
@@ -545,7 +545,7 @@
 					"Is Blacklist" = false
 
 	[world.new_stone_types]
-		"Enable Limestone" = true
+		"Enable Limestone" = false
 		"Enable Jasper" = true
 		"Enable Shale" = true
 		"Enable Myalite" = true
@@ -1379,14 +1379,14 @@
 
 	[client.improved_tooltips]
 		"Attribute Tooltips" = true
-		"Food Tooltips" = true
+		"Food Tooltips" = false
 		"Shulker Tooltips" = true
 		"Map Tooltips" = true
 		"Enchanting Tooltips" = true
 		"Shulker Box Use Colors" = true
 		"Shulker Box Require Shift" = false
 		"Map Require Shift" = false
-		"Show Saturation" = true
+		"Show Saturation" = false
 		"Food Compression Threshold" = 4
 		#The value of each shank of food. Tweak this when using mods like Hardcore Hunger which change that value.
 		"Food Divisor" = 2
@@ -1443,7 +1443,7 @@
 
 [oddities]
 	"Totem Of Holding" = true
-	Pipes = false
+	Pipes = true
 	"Matrix Enchanting" = false
 	Magnets = false
 	Crate = true
