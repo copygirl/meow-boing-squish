@@ -21,6 +21,10 @@ file = "config/create-common.toml"
 hash = "164fd80297274619a41cb8404c51b98dff1ed468035ec67f26b6dd4ca3fb46bc"
 
 [[files]]
+file = "config/cyclopscore-common.toml"
+hash = "bdb9c84a0e817f91653f2c4c25d342cb0163f067820e3dff9685cf7497e4f619"
+
+[[files]]
 file = "config/enchanting_overhauled.toml"
 hash = "5f9f99a4c420157823be66084c536fc3f2b00297d98b13c639d6f69ef6fb2426"
 
