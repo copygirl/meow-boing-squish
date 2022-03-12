@@ -1,6 +1,6 @@
 name = "InvMoveCompats"
 filename = "InvMoveCompats-1.18-0.1.0-Forge.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3667/56/InvMoveCompats-1.18-0.1.0-Forge.jar"

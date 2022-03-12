@@ -1,6 +1,6 @@
 name = "Inventory Essentials"
 filename = "inventoryessentials-forge-1.18-4.0.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3584/942/inventoryessentials-forge-1.18-4.0.1.jar"

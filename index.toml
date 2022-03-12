@@ -272,12 +272,12 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-essentials.toml"
-hash = "b067c4eab18de6806bf0df27dd21edfe1ccd2df08c47cbee3868e649dfcf011b"
+hash = "26efc1d5472737fc7babbacbb5d7720a0c6673712e4f3c7f2f96ebcd58a82b1a"
 metafile = true
 
 [[files]]
 file = "mods/inventory-hotswap.toml"
-hash = "bfae43db62dc2a573c984384cd46272a1e87381a5ca26b325f7d75878035c7cf"
+hash = "e80ba3202138add1d2944d424f4ac106a295310535c7791f62ce201398241d0c"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/invmovecompats.toml"
-hash = "59f206c2408402847f9b72494758e7a5ce631633215e9cb8525cc43b5a5a8454"
+hash = "f3e79550228ab5da048521874bb3b97e7f01cbab578f1dc7f04aac5f68f7b471"
 metafile = true
 
 [[files]]
