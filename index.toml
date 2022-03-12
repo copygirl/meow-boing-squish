@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/invmove.toml"
-hash = "3a4d5ea0dd046463f4d5c3888b9d8b9533d31a0f78e4675057cfdc1284ed0d5a"
+hash = "5fe61c132aa136dc1b0e4e420a2e3fa18a9ee9a674b2b312548bc894e80a8292"
 metafile = true
 
 [[files]]

@@ -11,8 +11,3 @@ hash = "a8543361746fbd7d425e3e9cb468018c4c5d8809"
 [update.curseforge]
 file-id = 3667027
 project-id = 581854
-
-[option]
-description = "Move around while GUIs are open"
-optional = true
-default = true
