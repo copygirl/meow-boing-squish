@@ -216,11 +216,6 @@ hash = "ef89dbe87bfdcd3ee45458e38f6b61db06a6de5e0168103401f8ad5dba9a12dc"
 metafile = true
 
 [[files]]
-file = "mods/first-person-model.toml"
-hash = "26864582b9e351b66a8393dcb54f866698a9bf9eda8a5e600557d7de3cb6f47f"
-metafile = true
-
-[[files]]
 file = "mods/flywheel.toml"
 hash = "3d7e8a1808461bc40bca710366d538901e65a137516f0853ccb2eb12d50bfc0e"
 metafile = true
@@ -328,16 +323,6 @@ metafile = true
 [[files]]
 file = "mods/no-null-processors.toml"
 hash = "30e8c3756747bd1dc8b662f73d2b2af4ae20162972fd00dc03e9034d650a89d8"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-animations.toml"
-hash = "3d12a1cd05fc4342437b2ef55d0f5a442105aaaa98377546bd43b8488b0dea2a"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-crashes-forge.toml"
-hash = "ac668e50e3bce564db85d87c6903c489019ae4da9ec238fb17d8d1eb9c8f7d6e"
 metafile = true
 
 [[files]]
