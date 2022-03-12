@@ -1,13 +1,13 @@
 name = "Cyclops Core"
-filename = "CyclopsCore-1.18.1-1.13.0.jar"
+filename = "CyclopsCore-1.18.1-1.13.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3614/854/CyclopsCore-1.18.1-1.13.0.jar"
+url = "https://edge.forgecdn.net/files/3683/831/CyclopsCore-1.18.1-1.13.1.jar"
 hash-format = "sha1"
-hash = "6006d4031d470317c3024acba7bace782a7d4638"
+hash = "c1eb5478a5046e1952966c5321776db9a84176a9"
 
 [update]
 [update.curseforge]
-file-id = 3614854
+file-id = 3683831
 project-id = 232758
