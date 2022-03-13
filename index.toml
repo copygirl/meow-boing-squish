@@ -25,10 +25,6 @@ file = "config/cyclopscore-common.toml"
 hash = "1d5545ca950744059c724f406f83f93c007332c73fd9d6baddb074152c22b1dd"
 
 [[files]]
-file = "config/enchanting_overhauled.toml"
-hash = "5f9f99a4c420157823be66084c536fc3f2b00297d98b13c639d6f69ef6fb2426"
-
-[[files]]
 file = "config/fml.toml"
 hash = "fcfd3bfb9eb16c7b29ef4b68893582f459dac12f3a87ea4f03a99d09c2c8706d"
 
@@ -183,11 +179,6 @@ metafile = true
 [[files]]
 file = "mods/dungeon-crawl.toml"
 hash = "bbd5d1ec9891f959fe784d7e2a7a94093d0742a9081c6bf613f6fc579deed030"
-metafile = true
-
-[[files]]
-file = "mods/enchanting-overhauled.toml"
-hash = "0e5eceabfa8061eb2870d6daa4804727f5131f2f39f44da79676efb14afb35c8"
 metafile = true
 
 [[files]]
