@@ -537,11 +537,6 @@ hash = "b8b2aa32aa32a910bdbbf60dc253b5dfd0c94ae104a71c8ac2dd74156bd5aa9f"
 metafile = true
 
 [[files]]
-file = "mods/supplementaries.toml"
-hash = "c49735de4c2c15360e7027035a7e1b9ce86d599d305979a3bdddbc5d6b432939"
-metafile = true
-
-[[files]]
 file = "mods/tax-free-levels.toml"
 hash = "f4288e88dfc6371b5a2d3e496f79cae184e5dd012bda438f1de340e9f5f28c0a"
 metafile = true
