@@ -1,0 +1,13 @@
+name = "Ultimate Car Mod"
+filename = "car-1.18.1-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3611/761/car-1.18.1-1.0.2.jar"
+hash-format = "sha1"
+hash = "8f9ae9c76eb87af03ca588565c783c8cc73605a9"
+
+[update]
+[update.curseforge]
+file-id = 3611761
+project-id = 267458

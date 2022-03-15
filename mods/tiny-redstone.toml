@@ -1,0 +1,13 @@
+name = "Tiny Redstone"
+filename = "tinyredstone-1.18-3.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3651/425/tinyredstone-1.18-3.1.2.jar"
+hash-format = "sha1"
+hash = "a34a1a2867367fa14924df360b64e44e3f57148f"
+
+[update]
+[update.curseforge]
+file-id = 3651425
+project-id = 453746

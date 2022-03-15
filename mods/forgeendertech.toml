@@ -1,0 +1,13 @@
+name = "ForgeEndertech"
+filename = "ForgeEndertech-1.18.1-8.0.1.0-build.0059.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3652/53/ForgeEndertech-1.18.1-8.0.1.0-build.0059.jar"
+hash-format = "sha1"
+hash = "a05d5fb49de32a6b5e51d38c27700f91f06e8707"
+
+[update]
+[update.curseforge]
+file-id = 3652053
+project-id = 244844

@@ -1,0 +1,13 @@
+name = "MythicBotany"
+filename = "MythicBotany-1.18.1-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3661/410/MythicBotany-1.18.1-2.0.1.jar"
+hash-format = "sha1"
+hash = "0821eb5d0e5b4f3e49782ffe7fb215b1ed4b0b45"
+
+[update]
+[update.curseforge]
+file-id = 3661410
+project-id = 400058

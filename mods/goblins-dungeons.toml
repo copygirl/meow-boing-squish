@@ -1,0 +1,13 @@
+name = "Goblins & Dungeons"
+filename = "Goblins_Dungeons_1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3681/502/Goblins_Dungeons_1.0.7.jar"
+hash-format = "sha1"
+hash = "dfe6d3bb9f9b688796a2ea823d1476f2b7fd0101"
+
+[update]
+[update.curseforge]
+file-id = 3681502
+project-id = 535096

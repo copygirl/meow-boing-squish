@@ -1,0 +1,13 @@
+name = "Library Ferret - Forge"
+filename = "LibraryFerret-Forge-1.18.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3597/907/LibraryFerret-Forge-1.18.1-1.0.3.jar"
+hash-format = "sha1"
+hash = "eaa1b5e0fa5ad7272f362e23ec2def10eae6be1d"
+
+[update]
+[update.curseforge]
+file-id = 3597907
+project-id = 532727

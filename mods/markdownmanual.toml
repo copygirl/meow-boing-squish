@@ -1,0 +1,13 @@
+name = "Markdown Manual"
+filename = "markdown_manual-1.18.1-forge-1.1.0+1299320.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3565/800/markdown_manual-1.18.1-forge-1.1.0+1299320.jar"
+hash-format = "sha1"
+hash = "59cbc49b48ca961af37bbde53be4e772dade28cc"
+
+[update]
+[update.curseforge]
+file-id = 3565800
+project-id = 502485

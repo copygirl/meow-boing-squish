@@ -1,0 +1,13 @@
+name = "Multi Mine"
+filename = "MultiMine-1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3634/312/MultiMine-1.18.1.jar"
+hash-format = "sha1"
+hash = "0f671f91957b5b5d0c5d9d4f2a5ce78d8d4113c7"
+
+[update]
+[update.curseforge]
+file-id = 3634312
+project-id = 227887

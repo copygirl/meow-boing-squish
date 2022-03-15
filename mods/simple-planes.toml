@@ -1,0 +1,13 @@
+name = "Simple Planes (Forge)"
+filename = "simpleplanes-1.18.1-4.11.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3662/832/simpleplanes-1.18.1-4.11.1.jar"
+hash-format = "sha1"
+hash = "b7debbe152b13ff52dc7024d851e34c0dfeac74b"
+
+[update]
+[update.curseforge]
+file-id = 3662832
+project-id = 388908

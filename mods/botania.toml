@@ -1,0 +1,13 @@
+name = "Botania"
+filename = "Botania-1.18.1-429.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3664/223/Botania-1.18.1-429.jar"
+hash-format = "sha1"
+hash = "3623be03251ce00c7ba695bc1c3cb36ca2984afd"
+
+[update]
+[update.curseforge]
+file-id = 3664223
+project-id = 225643

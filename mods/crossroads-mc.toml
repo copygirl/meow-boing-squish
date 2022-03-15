@@ -1,0 +1,13 @@
+name = "Crossroads MC"
+filename = "crossroads-1.18.1-2.7.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3616/150/crossroads-1.18.1-2.7.2.jar"
+hash-format = "sha1"
+hash = "a448e6b615672724dc2cbe5969232b4bdc344ccf"
+
+[update]
+[update.curseforge]
+file-id = 3616150
+project-id = 250231

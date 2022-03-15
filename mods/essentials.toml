@@ -1,0 +1,13 @@
+name = "Essentials"
+filename = "essentials-1.18.1-2.13.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3616/143/essentials-1.18.1-2.13.3.jar"
+hash-format = "sha1"
+hash = "cdc7aeed511a9cf4e269e0440ddcc4e65eb6ad9f"
+
+[update]
+[update.curseforge]
+file-id = 3616143
+project-id = 293752
