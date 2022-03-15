@@ -15,4 +15,4 @@ project-id = 368825
 [option]
 description = "Additional utility controls to move items arounds"
 optional = true
-default = false
+default = true

@@ -1,0 +1,18 @@
+name = "Loot Beams"
+filename = "lootbeams-1.18.1-release-jan1522.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3607/896/lootbeams-1.18.1-release-jan1522.jar"
+hash-format = "sha1"
+hash = "d4e2292b10c60b37f8d9cedb8b26a363c9aa9879"
+
+[update]
+[update.curseforge]
+file-id = 3607896
+project-id = 506757
+
+[option]
+description = "Draws beams to highlight dropped items"
+optional = true
+default = true

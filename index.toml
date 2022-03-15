@@ -248,12 +248,12 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-essentials.toml"
-hash = "26efc1d5472737fc7babbacbb5d7720a0c6673712e4f3c7f2f96ebcd58a82b1a"
+hash = "d5aeffd479613684116ec2b7899b0c0c5043b44375e5f6da267e999520032a8f"
 metafile = true
 
 [[files]]
 file = "mods/inventory-hotswap.toml"
-hash = "e80ba3202138add1d2944d424f4ac106a295310535c7791f62ce201398241d0c"
+hash = "3a9db4668efc214fb3dc63dc024044ecb186ce8005b0c3830bfad7d5c29d8e2a"
 metafile = true
 
 [[files]]
@@ -274,6 +274,11 @@ metafile = true
 [[files]]
 file = "mods/legendary-tooltips.toml"
 hash = "25961f4a035d1d4ed5fd28945a8d60385210fb288c2c5abcc4c8c4a25c6b5491"
+metafile = true
+
+[[files]]
+file = "mods/loot-beams.toml"
+hash = "3157d5dedff6ab04b59086fed1f21dfc2257275fdec13035843d4f50397d578e"
 metafile = true
 
 [[files]]
@@ -312,8 +317,18 @@ hash = "9d7ad0f6066b6630309020f9557d665917b81adb0a912fd83b025f0b58838607"
 metafile = true
 
 [[files]]
+file = "mods/pick-up-notifier.toml"
+hash = "cc5b6b1a5a8f6cfb8a496da1fc08b985ee8bea171e4b351d26a0a8b81af538b0"
+metafile = true
+
+[[files]]
 file = "mods/placebo.toml"
 hash = "fa68534c346369f0650e6bfca58aefbba3cc82043a0c566442e6c177fb85bf59"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.toml"
+hash = "d5d93ce4bd74c387d48f6dd98f6e5d8e7dd7cf606a403377efc0fc9e626494ce"
 metafile = true
 
 [[files]]
