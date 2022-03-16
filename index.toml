@@ -587,11 +587,6 @@ hash = "b039e0b79ad4f59cff4071a707d59adfe245fdb984af245580048f0a43ba4243"
 metafile = true
 
 [[files]]
-file = "mods/ultimate-plane-mod.toml"
-hash = "d2c8d50b9a726eba9fd812f887583e9a549ce75e50a02f0814476f4054803d40"
-metafile = true
-
-[[files]]
 file = "mods/when-dungeons-arise.toml"
 hash = "d9ed54028303ed160e7085f1dc81ba92c85bb1518fb6323a7ccd8d4e05a5559a"
 metafile = true
