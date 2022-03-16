@@ -208,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/corn-delight.toml"
-hash = "1c37fd9c6bc61cba9e3e880dc0fd7b8c7ffc17aed636903603aad32c86241124"
+hash = "3af7b079e62626806eece4846eb9c20bce8584328037eeee0fc72017b9382069"
 metafile = true
 
 [[files]]
@@ -229,6 +229,11 @@ metafile = true
 [[files]]
 file = "mods/crossroads-mc.toml"
 hash = "5c5628b08aa98127caa9eea7c62db2d33d18da9942db1e3a61e221b97854e947"
+metafile = true
+
+[[files]]
+file = "mods/curio-of-undying.toml"
+hash = "64ba291172a53f93d5a1945384150238092af9429640110831974f8f6d00c58e"
 metafile = true
 
 [[files]]
@@ -519,6 +524,11 @@ metafile = true
 [[files]]
 file = "mods/selene.toml"
 hash = "5c0ac5e5aa2648abb2efddefcd10780947e2debb801aa5c131e2a2ba7fdf410e"
+metafile = true
+
+[[files]]
+file = "mods/shutup-experimental-settings.toml"
+hash = "4624307e187c05b25224479b69cce3a69168456da45ac555f0a334a28239ba2e"
 metafile = true
 
 [[files]]
