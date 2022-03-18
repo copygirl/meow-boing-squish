@@ -183,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/compact-machines.toml"
-hash = "4952ffe9b4ce013669cc24f7e129756ded00c21796a46eacd922f75671008c59"
+hash = "71e992b800485eef4a87165db9cc1eeb1043668b2a77ef434ba37516971c40b5"
 metafile = true
 
 [[files]]
@@ -368,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/invmove.toml"
-hash = "5fe61c132aa136dc1b0e4e420a2e3fa18a9ee9a674b2b312548bc894e80a8292"
+hash = "f78fac83d7543d3f304dfa565cd1f582564cc2d9eb8f6ca2641a14f13c3a2185"
 metafile = true
 
 [[files]]

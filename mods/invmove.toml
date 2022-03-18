@@ -1,13 +1,13 @@
 name = "InvMove"
-filename = "InvMove-1.18-0.6.1-Forge.jar"
+filename = "InvMove-1.18-0.6.2-Forge.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3667/27/InvMove-1.18-0.6.1-Forge.jar"
+url = "https://edge.forgecdn.net/files/3695/842/InvMove-1.18-0.6.2-Forge.jar"
 hash-format = "sha1"
-hash = "a8543361746fbd7d425e3e9cb468018c4c5d8809"
+hash = "d2d39b1cf9379c82600564d5d7f78c36b5da0fd5"
 
 [update]
 [update.curseforge]
-file-id = 3667027
+file-id = 3695842
 project-id = 581854
