@@ -567,6 +567,11 @@ hash = "59727f696e46591b3a09e397eb874d85284169e853a1ad58ab3d7b094030a8fa"
 metafile = true
 
 [[files]]
+file = "mods/timeoutfixes.toml"
+hash = "5fd884f3b4a1f9cb2b1548eff6a2c9f4b3e81d722c39b096b2a10d0312628d53"
+metafile = true
+
+[[files]]
 file = "mods/tinkers-construct.toml"
 hash = "61dec0edfedff1e86a2b5adb9f794a3de390c455292803a84951a0f330204b1d"
 metafile = true
