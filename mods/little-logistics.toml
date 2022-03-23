@@ -1,13 +1,13 @@
 name = "Little Logistics"
-filename = "littlelogistics-mc1.18.1-v1.1.1.jar"
+filename = "littlelogistics-mc1.18.1-v1.1.1a.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3687/538/littlelogistics-mc1.18.1-v1.1.1.jar"
+url = "https://edge.forgecdn.net/files/3703/954/littlelogistics-mc1.18.1-v1.1.1a.jar"
 hash-format = "sha1"
-hash = "5fc871cbb2f1515ccb83c4339a020ed7ed23f700"
+hash = "6996eb57bcb5aa8a2d0fdef0570802975a1914d9"
 
 [update]
 [update.curseforge]
-file-id = 3687538
+file-id = 3703954
 project-id = 570050

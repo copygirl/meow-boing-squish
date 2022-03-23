@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.toml"
-hash = "c9db1cd7e28d2475bed9bbadd7e1d026c6fb38e5d37214f09e0c25fdb4ae8f9d"
+hash = "2a6bf18b52ad130b86395b6c85e436479f4f63d9598b05e3583f5f571a0b95b3"
 metafile = true
 
 [[files]]
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/champions.toml"
-hash = "163d2701880f0e186b802eb16aee77c409218d1b3b2b4787ea29f93c8d6134a0"
+hash = "ce3cf1d9f887ba1db6c75658ad423d04d19d469df45e7da7e44e3845a472a9a5"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.toml"
-hash = "53896302c223875278b8dd598e584847b4a9fc0ac778d263e921051bc05128e4"
+hash = "6ea27c7f42b9ceae780e92e5823216077b21c18f4905fb26b769e0ebd65c9df5"
 metafile = true
 
 [[files]]
@@ -316,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/little-logistics.toml"
-hash = "54059c70dc6391b79a19a82a3a2f63091d91fa846630a6008154c290deb2fe6e"
+hash = "e9b46414d5f2ba6c95add4f40db900a23b8fada6a344019e289ce02a1c686213"
 metafile = true
 
 [[files]]
@@ -406,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/pollution-of-the-realms.toml"
-hash = "e7c18f24fb2c74318529522403e8817ae0cfd3abe30413431e62d1f994823f37"
+hash = "320ec3276ba1b0a6438b51a40e3090dd00dca356c3c8945c968c31ebc5805fea"
 metafile = true
 
 [[files]]
@@ -516,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit-forge.toml"
-hash = "496d402af21afd318fee7d092ffbffbad9253aa63ad97ce5657f06e2b2feaa96"
+hash = "25bdcfca314956bad1e8b4cb0dec3e2c1efd8075698d306930d16501a8917d27"
 metafile = true
 
 [[files]]
