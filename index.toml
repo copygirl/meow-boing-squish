@@ -9,10 +9,6 @@ file = "config/bettermodsbutton-client.toml"
 hash = "4365cc82c61d1bbcd3d16ceeea4dd7a1e6c45825f22a439b231b1d407b2fd0e4"
 
 [[files]]
-file = "config/commoncapabilities-common.toml"
-hash = "4501f3526a23dc93df724f0f7a29232a09bdb775b2e21036326c2752bc6e36f7"
-
-[[files]]
 file = "config/create-client.toml"
 hash = "1571260a92271b9e54cb8d98699da43d0cd0035797d660ac04582f68e2f62ade"
 
@@ -21,36 +17,8 @@ file = "config/create-common.toml"
 hash = "164fd80297274619a41cb8404c51b98dff1ed468035ec67f26b6dd4ca3fb46bc"
 
 [[files]]
-file = "config/cyclopscore-common.toml"
-hash = "1d5545ca950744059c724f406f83f93c007332c73fd9d6baddb074152c22b1dd"
-
-[[files]]
 file = "config/fml.toml"
 hash = "fcfd3bfb9eb16c7b29ef4b68893582f459dac12f3a87ea4f03a99d09c2c8706d"
-
-[[files]]
-file = "config/integratedcrafting-common.toml"
-hash = "279a4dc8e2fe2a618052279f927a2589143cc32aa950277c3143ad15dfbce4d4"
-
-[[files]]
-file = "config/integrateddynamics-common.toml"
-hash = "e8b63132c85e0e55df7c86a2c9ef64c90f0e6eca7bf83ce4758f74993413f109"
-
-[[files]]
-file = "config/integrateddynamicscompat-common.toml"
-hash = "231c6d602e6493c36055f344b38a5f4cd5b435f9cbb69d77d36e0f314579a4e3"
-
-[[files]]
-file = "config/integratedterminals-common.toml"
-hash = "e01c4d419278098995bb45720dfe5164c2f622d95bd5aceab6550a6f3cbc96cf"
-
-[[files]]
-file = "config/integratedterminalscompat-common.toml"
-hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
-
-[[files]]
-file = "config/integratedtunnels-common.toml"
-hash = "49c935d843e6acf20fb63bc430cb70b69f3ea09f893c3a3fe78396aa18308b03"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -142,11 +110,6 @@ hash = "81506b4a3e9611a4a156b4cf9a07e6876214b84558b84d44640c25ecf93d54f9"
 metafile = true
 
 [[files]]
-file = "mods/botania.toml"
-hash = "ec77a13be60b32bb185cbe8e8551719cb6c8c5a5ec079ed39e1b30e7732624b0"
-metafile = true
-
-[[files]]
 file = "mods/carry-on.toml"
 hash = "6c5c806e43eaede9143c66e8c5e2526b83a6c324ff25c98725188ba03f8ebd1c"
 metafile = true
@@ -174,11 +137,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config-forge.toml"
 hash = "89ce240e47591e1bb1dd4537c995d0fb73b2bcbc082fe163e5ed31d422deda4f"
-metafile = true
-
-[[files]]
-file = "mods/common-capabilities.toml"
-hash = "16532b1c212cc25a732809427e978a40c08454b0554666658f7f63bfca7b7502"
 metafile = true
 
 [[files]]
@@ -222,11 +180,6 @@ hash = "53896302c223875278b8dd598e584847b4a9fc0ac778d263e921051bc05128e4"
 metafile = true
 
 [[files]]
-file = "mods/createaddition.toml"
-hash = "8bb7268d8f8290550be0e64a3b6abb7f60429cb66317cf14b3e27d9088e2bb8d"
-metafile = true
-
-[[files]]
 file = "mods/crossroads-mc.toml"
 hash = "5c5628b08aa98127caa9eea7c62db2d33d18da9942db1e3a61e221b97854e947"
 metafile = true
@@ -242,11 +195,6 @@ hash = "e5145f373c74d0bd3b10df6c73750c3b7581fb973f0fc0230151939ab6c7d156"
 metafile = true
 
 [[files]]
-file = "mods/cyclops-core.toml"
-hash = "36eb6b4238bfaa4519e91891537362a69526318864d3804f7637238565cec6be"
-metafile = true
-
-[[files]]
 file = "mods/decorative-blocks.toml"
 hash = "64999518b2177e227a9ec1dc598d5f4041d0f89aafa0b96ebb49784a589f0584"
 metafile = true
@@ -254,16 +202,6 @@ metafile = true
 [[files]]
 file = "mods/dungeon-crawl.toml"
 hash = "bbd5d1ec9891f959fe784d7e2a7a94093d0742a9081c6bf613f6fc579deed030"
-metafile = true
-
-[[files]]
-file = "mods/engineers-decor.toml"
-hash = "15082a0972e87f1564c1c78b6516eda1152dbb1ecb3f40566dd661366be69719"
-metafile = true
-
-[[files]]
-file = "mods/enigmatic-legacy.toml"
-hash = "4ee3c6cf9cc74a0b6ae12f5c01932e119249859085c7b3bd954685c62a0eed0c"
 metafile = true
 
 [[files]]
@@ -327,36 +265,6 @@ hash = "a762cf788bc65114bc9a16323367e605d1371ec491619809d23c937623dfc852"
 metafile = true
 
 [[files]]
-file = "mods/iceberg.toml"
-hash = "7e3504ff83855b4a572fa10db2c4416428b7b306e928e8a59bf621ef31a5ea7e"
-metafile = true
-
-[[files]]
-file = "mods/immersive-engineering.toml"
-hash = "fad77d84e0c1cd1a2b1c99a6236d8d9a2eeb07dee7f37e4ab4992a9d0210b225"
-metafile = true
-
-[[files]]
-file = "mods/integrated-crafting.toml"
-hash = "a0fa35338ea0e94c84c0efa0298980381d5c193d5093fbfe1a2575478fdd81e4"
-metafile = true
-
-[[files]]
-file = "mods/integrated-dynamics.toml"
-hash = "b05c3ba91518d8aa0c3db6ffe6ee95c7b051244745365279065595653f210e58"
-metafile = true
-
-[[files]]
-file = "mods/integrated-terminals.toml"
-hash = "8d6ae9c9a72430b0c36eb7cf290caa3e4930a1610d9e6079025faaf3871eabf0"
-metafile = true
-
-[[files]]
-file = "mods/integrated-tunnels.toml"
-hash = "7135fa927f765c10239216ee8f781b6f2c71b3bcf1b40b712ae352723b9b751f"
-metafile = true
-
-[[files]]
 file = "mods/inventory-essentials.toml"
 hash = "d5aeffd479613684116ec2b7899b0c0c5043b44375e5f6da267e999520032a8f"
 metafile = true
@@ -382,18 +290,8 @@ hash = "0ec47d0e3bf4be13eb602a82726796e4b7015aba4597b34eef0e5df1c9542465"
 metafile = true
 
 [[files]]
-file = "mods/legendary-tooltips.toml"
-hash = "25961f4a035d1d4ed5fd28945a8d60385210fb288c2c5abcc4c8c4a25c6b5491"
-metafile = true
-
-[[files]]
 file = "mods/library-ferret-forge.toml"
 hash = "0be17a24b0997250b7dc044914e2caf23aadc4259f75d36489030730eb1e9842"
-metafile = true
-
-[[files]]
-file = "mods/libx.toml"
-hash = "7ae75d6da05d561af0321c0a92f9c4f8a4370ddf5182d575d8a5c6c3371f5dd5"
 metafile = true
 
 [[files]]
@@ -419,11 +317,6 @@ metafile = true
 [[files]]
 file = "mods/malum.toml"
 hash = "4de154b10bb0aea10f532fb3a2571ec2f20966709b701a620a2f2ead97a7342c"
-metafile = true
-
-[[files]]
-file = "mods/mantle.toml"
-hash = "00cd05de92af5887c9c1460cfbd01325baf0c9a6bdde34e651ada96a2a01030f"
 metafile = true
 
 [[files]]
@@ -459,11 +352,6 @@ metafile = true
 [[files]]
 file = "mods/mysterious-mountain-lib.toml"
 hash = "fd33bc9312ed78fefac5d66d5026b767d102dedab3c6a8eee4955b7c51dfb73c"
-metafile = true
-
-[[files]]
-file = "mods/mythicbotany.toml"
-hash = "94db743d267bde8c7441f60cf96318633b220a4dba28b05a16420d2559b72b4d"
 metafile = true
 
 [[files]]
@@ -557,11 +445,6 @@ hash = "183b3faa4f3f75cc17ee671f6af056b0df2050a0759d228429b0039ac17f13ad"
 metafile = true
 
 [[files]]
-file = "mods/tetra.toml"
-hash = "8a0840cfd5e9b88b8b3841d49af170b8bd17484ce34937a504898df6b98034f2"
-metafile = true
-
-[[files]]
 file = "mods/the-lost-cities.toml"
 hash = "59727f696e46591b3a09e397eb874d85284169e853a1ad58ab3d7b094030a8fa"
 metafile = true
@@ -569,11 +452,6 @@ metafile = true
 [[files]]
 file = "mods/timeoutfixes.toml"
 hash = "5fd884f3b4a1f9cb2b1548eff6a2c9f4b3e81d722c39b096b2a10d0312628d53"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-construct.toml"
-hash = "61dec0edfedff1e86a2b5adb9f794a3de390c455292803a84951a0f330204b1d"
 metafile = true
 
 [[files]]
