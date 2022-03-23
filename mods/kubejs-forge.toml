@@ -1,0 +1,13 @@
+name = "KubeJS (Forge)"
+filename = "kubejs-forge-1801.4.3-build.310.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3670/982/kubejs-forge-1801.4.3-build.310.jar"
+hash-format = "sha1"
+hash = "8bf13ffe007b3d32e27692aa71dc0b6cb5c878f0"
+
+[update]
+[update.curseforge]
+file-id = 3670982
+project-id = 238086

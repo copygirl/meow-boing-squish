@@ -1,0 +1,13 @@
+name = "Controlling"
+filename = "Controlling-forge-1.18.1-9.0+15.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3648/602/Controlling-forge-1.18.1-9.0+15.jar"
+hash-format = "sha1"
+hash = "09fb2e571cafe95e2665b3d5093d1aa1b97e6d53"
+
+[update]
+[update.curseforge]
+file-id = 3648602
+project-id = 250398

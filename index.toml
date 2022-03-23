@@ -50,6 +50,11 @@ hash = "2b0d4d29302f7c8e40ca271c2b04c3dd609ef6821d03207d6ecb1af461184efd"
 metafile = true
 
 [[files]]
+file = "mods/architectury-forge.toml"
+hash = "8eebbb158c893500b40ad5b27b5c1323a100ac98193af9d3929df2911889cf1e"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.toml"
 hash = "c9db1cd7e28d2475bed9bbadd7e1d026c6fb38e5d37214f09e0c25fdb4ae8f9d"
 metafile = true
@@ -152,6 +157,11 @@ metafile = true
 [[files]]
 file = "mods/controllable.toml"
 hash = "0f0310851cca28c272989435cc18d5ad45422da5bf1750aac5f5e6e7ce1d907b"
+metafile = true
+
+[[files]]
+file = "mods/controlling.toml"
+hash = "12d7c1a5ca34a68ea3353984e16914a1a56a47de48243ff207a1941c9db42014"
 metafile = true
 
 [[files]]
@@ -290,6 +300,16 @@ hash = "0ec47d0e3bf4be13eb602a82726796e4b7015aba4597b34eef0e5df1c9542465"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-create.toml"
+hash = "8977af004cd82abc2a0503422e37c78aeaa1f3b51c2a4090d488533c93257964"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-forge.toml"
+hash = "87f801db2e9fe4489f529a3d0687bd157a688aa50ee65ea85e4e41dc582423f6"
+metafile = true
+
+[[files]]
 file = "mods/library-ferret-forge.toml"
 hash = "0be17a24b0997250b7dc044914e2caf23aadc4259f75d36489030730eb1e9842"
 metafile = true
@@ -302,6 +322,11 @@ metafile = true
 [[files]]
 file = "mods/loot-beams.toml"
 hash = "3157d5dedff6ab04b59086fed1f21dfc2257275fdec13035843d4f50397d578e"
+metafile = true
+
+[[files]]
+file = "mods/lootjs-forge.toml"
+hash = "8905a6107010adc458815e201c6d275e4ada033d5ca5340a0b925ee4a111d39c"
 metafile = true
 
 [[files]]
@@ -407,6 +432,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures.toml"
 hash = "7c8470171e8f52a28276e86df4cae39080eb8e1d4f8356300cf8607166806c6c"
+metafile = true
+
+[[files]]
+file = "mods/rhino.toml"
+hash = "06a7794a3e149667f425299a93cfe4b02c095a537eae48fd40325c3d26f24377"
 metafile = true
 
 [[files]]
