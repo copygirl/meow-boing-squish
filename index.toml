@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/akashictome-common.toml"
-hash = "86b10c179cf64ca99328619d88171d8298db26640fc6ff3e09c53dbaa92e0743"
+hash = "eb0633a51283e08d4f8e0b49e53be827867dcdb444c5568ca6ec1b250e4fb8c8"
 
 [[files]]
 file = "config/ars_nouveau-common.toml"
