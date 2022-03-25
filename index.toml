@@ -35,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "mods/akashic-tome.toml"
-hash = "f6f9bcb22523810d89c60dbcb64abbcf98a8229f50205a90d8d20394ac8b974f"
+hash = "ff95ccb4aab834fb53141d10c8b0b7aa89ba58f94d6e610620ce7859938ab9ab"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.toml"
-hash = "06a7794a3e149667f425299a93cfe4b02c095a537eae48fd40325c3d26f24377"
+hash = "0f19481c9f49a3222ae88f15dce65163d01e02a86f9e0e4ab6ab45117e696260"
 metafile = true
 
 [[files]]
