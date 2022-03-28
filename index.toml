@@ -149,11 +149,6 @@ hash = "89ce240e47591e1bb1dd4537c995d0fb73b2bcbc082fe163e5ed31d422deda4f"
 metafile = true
 
 [[files]]
-file = "mods/compact-machines.toml"
-hash = "71e992b800485eef4a87165db9cc1eeb1043668b2a77ef434ba37516971c40b5"
-metafile = true
-
-[[files]]
 file = "mods/configured.toml"
 hash = "88f87e7edca2939290d441afa0554c45f2b283920560f8172c14c87d99f4d4ef"
 metafile = true
@@ -354,11 +349,6 @@ hash = "6ed81159b48b6ef43655a6f82172afe63db7130d3a29700a20301ff34131a453"
 metafile = true
 
 [[files]]
-file = "mods/mrcrayfish-furniture-mod.toml"
-hash = "5b658356c27ba7f58c8206815b4c978f5b8261bc5b542b5c01f982c2555df6d0"
-metafile = true
-
-[[files]]
 file = "mods/mrcrayfishs-gun-mod.toml"
 hash = "d63e8f371687e2c914593c7904c3a35e3b13aa79939dfd9299cc64f256147111"
 metafile = true
@@ -449,11 +439,6 @@ hash = "4624307e187c05b25224479b69cce3a69168456da45ac555f0a334a28239ba2e"
 metafile = true
 
 [[files]]
-file = "mods/simple-planes.toml"
-hash = "dc63e599774af36069592ae58c359ceef8cde9aeedb1f88a3d702f50e0762b60"
-metafile = true
-
-[[files]]
 file = "mods/sky-villages-forge.toml"
 hash = "2113c9ebbbee69a35d43014e034a91e578438e275d556af054874a86ab29d43a"
 metafile = true
@@ -506,11 +491,6 @@ metafile = true
 [[files]]
 file = "mods/toast-control.toml"
 hash = "0f903936961aece7f2a273dd87a969c0368842c03d896270dd685d4cb10748c6"
-metafile = true
-
-[[files]]
-file = "mods/ultimate-car-mod.toml"
-hash = "b039e0b79ad4f59cff4071a707d59adfe245fdb984af245580048f0a43ba4243"
 metafile = true
 
 [[files]]
