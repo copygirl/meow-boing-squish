@@ -479,6 +479,11 @@ hash = "59727f696e46591b3a09e397eb874d85284169e853a1ad58ab3d7b094030a8fa"
 metafile = true
 
 [[files]]
+file = "mods/time-in-a-bottle-standalone.toml"
+hash = "1e005532b669e02e25e5e4fffcd17102b509258dcdea35455eeea0de65f4dc92"
+metafile = true
+
+[[files]]
 file = "mods/timeoutfixes.toml"
 hash = "5fd884f3b4a1f9cb2b1548eff6a2c9f4b3e81d722c39b096b2a10d0312628d53"
 metafile = true
