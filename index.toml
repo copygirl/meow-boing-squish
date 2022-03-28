@@ -26,7 +26,7 @@ hash = "fcfd3bfb9eb16c7b29ef4b68893582f459dac12f3a87ea4f03a99d09c2c8706d"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "1c351f3a9b039234f253aa4023b42ad480d4eeca5e74ce45ce1699c24546f34b"
+hash = "1ed6d7d88f46544aa4094d0957bb146d7450d434f879a1f3743235d9be03004f"
 
 [[files]]
 file = "mods/advanced-chimneys.toml"
