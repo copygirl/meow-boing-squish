@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/akashictome-common.toml"
-hash = "eb0633a51283e08d4f8e0b49e53be827867dcdb444c5568ca6ec1b250e4fb8c8"
+hash = "f761774efb2570f6e64ce1568c338de0245de80fb7ee339e82c6116fb6572021"
 
 [[files]]
 file = "config/ars_nouveau-common.toml"
@@ -336,11 +336,6 @@ metafile = true
 [[files]]
 file = "mods/lootr.toml"
 hash = "c9ca9290ec92ba5e23004a8185fcc75aac52ff5d68329a4196b3c5acf22bb3c1"
-metafile = true
-
-[[files]]
-file = "mods/mahou-tsukai.toml"
-hash = "20b02c2acfbe31607fea45f58bf4be5e502bfe633177ab6cf800a36772cef9c6"
 metafile = true
 
 [[files]]
