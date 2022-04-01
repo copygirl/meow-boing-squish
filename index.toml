@@ -33,6 +33,14 @@ file = "config/tconstruct-common.toml"
 hash = "c1ad9e8f3c04b4ada198bdd5949b725d902199635e18d44ac252b2ad67f68500"
 
 [[files]]
+file = "kubejs/config/client.properties"
+hash = "ec02cfcee9184fc2079adfe9e61fc44a0f5eaa7d30ec128198f3897eefb9ba9f"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "329da2b6b43b63c1fe76f3fa33201397b723d210bed4caa87de76035ce1819cf"
+
+[[files]]
 file = "mods/advanced-chimneys.toml"
 hash = "bb73ce5703d90583dbcb75c56df0ce1d5cfd6638d2f5cf9b75637df23d0aa9af"
 metafile = true
