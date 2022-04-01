@@ -30,7 +30,7 @@ hash = "1ed6d7d88f46544aa4094d0957bb146d7450d434f879a1f3743235d9be03004f"
 
 [[files]]
 file = "config/tconstruct-common.toml"
-hash = "808d9aee54cdcc0438e5da2c66099a46ae4b9a71eab95fd7f9b03a9266b70f13"
+hash = "c1ad9e8f3c04b4ada198bdd5949b725d902199635e18d44ac252b2ad67f68500"
 
 [[files]]
 file = "mods/advanced-chimneys.toml"
