@@ -41,6 +41,10 @@ file = "kubejs/config/common.properties"
 hash = "329da2b6b43b63c1fe76f3fa33201397b723d210bed4caa87de76035ce1819cf"
 
 [[files]]
+file = "kubejs/server_scripts/akashic_tome.js"
+hash = "42de7669dc75507d763d1ef107b179cffb00d7bd79ae71020f3b7952988f1b65"
+
+[[files]]
 file = "mods/advanced-chimneys.toml"
 hash = "bb73ce5703d90583dbcb75c56df0ce1d5cfd6638d2f5cf9b75637df23d0aa9af"
 metafile = true
