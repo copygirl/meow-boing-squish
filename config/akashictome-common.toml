@@ -3,8 +3,15 @@
     "ars_nouveau:worn_notebook",
     "assemblylinemachines:guidebook",
     "essentials:guide_book",
+    "malum:encyclopedia_arcana",
     "occultism:dictionary_of_spirits",
     "patchouli:guide_book",
+    "tconstruct:materials_and_you",
+    "tconstruct:puny_smelting",
+    "tconstruct:mighty_smelting",
+    "tconstruct:fantastic_foundry",
+    "tconstruct:tinkers_gadgetry",
+    "tconstruct:encyclopedia",
     "tis3d:manual"
 ]
 "Whitelisted Names" = []
