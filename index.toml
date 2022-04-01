@@ -339,6 +339,11 @@ hash = "4de154b10bb0aea10f532fb3a2571ec2f20966709b701a620a2f2ead97a7342c"
 metafile = true
 
 [[files]]
+file = "mods/mantle.toml"
+hash = "00cd05de92af5887c9c1460cfbd01325baf0c9a6bdde34e651ada96a2a01030f"
+metafile = true
+
+[[files]]
 file = "mods/markdownmanual.toml"
 hash = "f5b3803c0aee3c72622bdc021dec1fa6a8303b4669c8ad19d26f91d712d0aeb9"
 metafile = true
@@ -356,11 +361,6 @@ metafile = true
 [[files]]
 file = "mods/multi-mine.toml"
 hash = "9bc7f522a8ecc616bb3f37dbd7051b20d0202e171084ab91479444345c1d994c"
-metafile = true
-
-[[files]]
-file = "mods/mutil.toml"
-hash = "dac72ac703dcb6cf98725b690bcdc91e9aa6006fcf691e955c32312958bf660b"
 metafile = true
 
 [[files]]
@@ -471,6 +471,11 @@ metafile = true
 [[files]]
 file = "mods/timeoutfixes.toml"
 hash = "5fd884f3b4a1f9cb2b1548eff6a2c9f4b3e81d722c39b096b2a10d0312628d53"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.toml"
+hash = "61dec0edfedff1e86a2b5adb9f794a3de390c455292803a84951a0f330204b1d"
 metafile = true
 
 [[files]]

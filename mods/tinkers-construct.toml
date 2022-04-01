@@ -1,0 +1,13 @@
+name = "Tinkers Construct"
+filename = "TConstruct-1.18.1-3.4.2.60.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3693/992/TConstruct-1.18.1-3.4.2.60.jar"
+hash-format = "sha1"
+hash = "d94f56e5c0e4abb39667cc0966f8da4963cf1626"
+
+[update]
+[update.curseforge]
+file-id = 3693992
+project-id = 74072
